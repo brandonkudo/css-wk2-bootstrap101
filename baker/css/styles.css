@@ -1,0 +1,26 @@
+body {
+  background-color: #E8E8E8;
+}
+
+
+#profiles {
+  float: right;
+  max-width: 80%;
+}
+
+#italics {
+  font-style: italic;
+}
+
+#images {
+  float: right;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 40px;
+   margin-right: 40px;
+   max-width: 150px;
+}
+
+#logo {
+  padding-top: 80px;
+}
